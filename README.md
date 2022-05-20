@@ -39,5 +39,5 @@ tener un encuentro mas cercano con problemas ya del mundo real.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTellez1&layout=compact)](https://github.com/VictorTellez1)
 
-
-
+<h3>Contactame</h3>
+<a href="https://www.linkedin.com/in/víctor-hugo-téllez-domínguez-800871219/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="60" height="60"></a></img>
