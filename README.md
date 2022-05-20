@@ -13,10 +13,31 @@ tener un encuentro mas cercano con problemas ya del mundo real.
 <br></br>
 <h2>Lenguajes y Freameworks en los cuales tengo conocimiento</h2>
 <h3>Front end</h3>
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+<div>
+<img alt=”JavaScript” src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img> <img alt=”CSS3” src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
+<img alt=”HTML” src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img> 
+<img alt=”BOOSTRAP” src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img> 
+<img alt=”Tailwind” src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img> 
+<img alt=”Tailwind” src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img> 
+</div>
+<h3>Back End</h3>
+<div>
+<img alt=”Php” src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></img> 
+<img alt=”Laravel” src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></img> 
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
+<img alt="MYSQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img> 
+</div>
+<br></br>
+<h3>Actualmente estoy trabajando en</h3>
+<ul>
+  <li>Mejorar mi nivel en JS</li>
+  <li>Aprender React</li>
+</ul>
 
 
-<!---
-VictorTellez1/VictorTellez1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>Un poco sobre mi GitHub</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTellez1&layout=compact)](https://github.com/VictorTellez1)
+
+
+
